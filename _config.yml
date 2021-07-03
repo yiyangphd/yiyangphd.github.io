@@ -41,14 +41,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
    email: "yy3136@cumc.columbia.com"
-# facebook: deanattali
+   google-scholar: citations?user=5emLpPkAAAAJ&hl=en
+   ORCID: 0000-0002-1471-4026
    github: yiyangphd
+   linkedin: imyiyang
+#  facebook: deanattali
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: imyiyang
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,9 +62,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-   google-scholar: citations?user=5emLpPkAAAAJ&hl=en
+#  mastodon: instance.url/@username   
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
