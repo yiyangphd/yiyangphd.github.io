@@ -14,7 +14,7 @@ author: Yi Yang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "yiyangphd.github.io"
+  Home: "index.html"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
