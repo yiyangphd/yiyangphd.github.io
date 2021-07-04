@@ -15,3 +15,9 @@ title: Publications
 10. Brennan, M., Treister, N., Sollecito, T., Schmidt, B., Patton, L., **Yang, Y.**, Lin, A., Elting, L,. Hodges, J., & Lalla, R. (2021). [Epidemiologic factors in patients with advanced head and neck cancer treated with radiation therapy.](https://doi.org/10.1002/hed.26468) Head & Neck, 43(1), 164-172.
 11. Chinnakotla, S., Verghese, P., Chavers, B., Rheault, M., Kirchner, V., Dunn, T., Kashtan, C., Nevins, T., Mauer, M, Pruett, T., Kim, Y., Najera, L., Hanna, C., Kizilbash, S., Cook, M., Cisek, L., Gillingham, K., **Yang, Y.**, Matas, A., & Najarian, J. (2017). [Outcomes and risk factors for graft loss: lessons learned from 1,056 pediatric kidney transplants at the University of Minnesota.](https://doi.org/10.1016/j.jamcollsurg.2016.12.027) Journal of the American College of Surgeons, 224(4), 473-486.
 12. Wang, Q., **Yang, Y.**, Wang, Q., & Ma, Q. (2014). [The effect of human image in B2C website design: an eye-tracking study.](https://doi.org/10.1080/17517575.2014.925585) Enterprise Information Systems, 8(5), 582-605.
+
+**Forthcoming**
+
+13. **Yang, Y.**, Basu, S., & Zhang, L. (2021+). A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies. Submitted.
+14. **Yang, Y.**, Wang, C., & Ionita-Laza, I. (2021+). KnockoffTrio: A knockoff framework for the trio design. Working manuscript.
+15. Nathan, J., **Yang, Y.**, Witkowski, P., ..., Hodges, J., Bellin, M. Surgical approach and complications in adults and children undergoing total pancreatectomy with islet autotransplantation: A report from the Prospective Observational Study of TPIAT. Under revision.
