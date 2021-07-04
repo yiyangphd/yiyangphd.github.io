@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Education:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+   - PhD in Biostatistics, University of Minnesota, Texas A&M University
+       - Advisors: [Dr. Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang) and [Dr. Saonli Basu](https://directory.sph.umn.edu/bio/sph-a-z/saonli-basu) 
+       - Dissertation: Bayesian hierarchical variable selection methods with applications to genome-wide association studies
+              
 
-What else do you need?
+### Work Experience
+   
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+       
