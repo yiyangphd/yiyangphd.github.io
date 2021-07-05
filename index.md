@@ -9,4 +9,4 @@ order: 1
 
 ### News
 
-- **May 2021**: Contributed talk “Knockoff statistics and applications to genome-wide association studies” at the Statistical Genetics Journal Club of Columbia University Irving Medical Center.
+- **May 2021**: Contributed talk **Knockoff Statistics and Applications to Genome-wide Association Studies** at the Statistical Genetics Journal Club of Columbia University Irving Medical Center.
