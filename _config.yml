@@ -17,6 +17,7 @@ navbar-links:
   Home: "https://yiyangphd.github.io"
   About Me: "aboutme"
   Publications: "publications"
+  Contact: "contact"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
