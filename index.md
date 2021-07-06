@@ -8,9 +8,11 @@ order: 1
 
 ### News
 
-- **June 2021**: Submitted manuscript **A Bayesian Hierarchically Structured Prior for Gene-Based Association Testing with Multiple Traits in Genome-Wide Association Studies**.
+- **Jun 2021**: Submitted manuscript **A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**.
 
-- **May 2021**: Contributed talk **Knockoff Statistics and Applications to Genome-wide Association Studies** at the Statistical Genetics Journal Club of Columbia University Irving Medical Center.
+- **May 2021**: Contributed talk **Knockoff statistics and applications to genome-wide association studies** at the Statistical Genetics Journal Club of Columbia University Irving Medical Center.
 
-- **May 2020**: Awarded **Jacob E. Bearman Student Achievement Award** in the Division of Biostatistics at the University of Minnesota.
+- **Jan 2021**: Published paper [**A Bayesian hierarchically structured prior for rare‐variant association testing**](https://doi.org/10.1002/gepi.22379) in Genetic Epidemiology.
+
+- **May 2020**: Awarded **Jacob E. Bearman student achievement award** in the Division of Biostatistics at the University of Minnesota.
 
