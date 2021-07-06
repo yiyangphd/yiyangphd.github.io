@@ -12,5 +12,5 @@ order: 1
 
 - **May 2021**: Contributed talk **Knockoff Statistics and Applications to Genome-wide Association Studies** at the Statistical Genetics Journal Club of Columbia University Irving Medical Center.
 
-- **May 2020**: Awarded Jacob E. Bearman Student Achievement Award in the Division of Biostatistics at the University of Minnesota.
+- **May 2020**: Awarded **Jacob E. Bearman Student Achievement Award** in the Division of Biostatistics at the University of Minnesota.
 
