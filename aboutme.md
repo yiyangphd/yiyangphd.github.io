@@ -14,7 +14,7 @@ title: About me
 ### Work Experience
    - Postdoctoral Research Scientist, Columbia University
        - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
-   - Lecturer, School of Management, Fuzhou University
+   - Lecturer, School of Management, Zhicheng College, Fuzhou University
 
 
        
