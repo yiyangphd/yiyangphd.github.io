@@ -18,6 +18,6 @@ title: Publications
 
 **Forthcoming**
 
-13. **Yang, Y.**, Basu, S., & Zhang, L. (2021+). A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies. Submitted.
+13. **Yang, Y.**, Basu, S., & Zhang, L. (2021+). A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies. Under revision.
 14. **Yang, Y.**, Wang, C., & Ionita-Laza, I. (2021+). KnockoffTrio: A knockoff framework for the trio design. Working manuscript.
 15. Nathan, J., **Yang, Y.**, Witkowski, P., ..., Hodges, J., & Bellin, M. Surgical approach and complications in adults and children undergoing total pancreatectomy with islet autotransplantation: A report from the Prospective Observational Study of TPIAT. Under revision.
