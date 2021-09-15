@@ -8,6 +8,8 @@ order: 1
 
 ### News
 
+- **Sep 2021**: Published R package [**HSVS-M**](https://github.com/yiyangphd/HSVS) for multi-variant multi-trait association testing.
+
 - **Jun 2021**: Submitted manuscript **A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**.
 
 - **May 2021**: Contributed talk **Knockoff statistics and applications to genome-wide association studies** at the Statistical Genetics Journal Club of Columbia University Irving Medical Center.
