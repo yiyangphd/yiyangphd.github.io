@@ -8,7 +8,7 @@ order: 1
 
 ### News
 
-- **Sep 2021**: Published R package [**HSVS-M**](https://github.com/yiyangphd/HSVS) for multi-variant multi-trait association testing.
+- **Sep 2021**: Published R package [**HSVS-M**](https://github.com/yiyangphd/HSVSM) for multi-variant multi-trait association testing.
 
 - **Jun 2021**: Submitted manuscript **A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**.
 
