@@ -16,6 +16,8 @@ title: About me
 
 - Postdoctoral Research Scientist, Columbia University
    - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
+- Research Assistant, University of Minnesota
+   - Supervisor: [Dr. James Hodges](https://directory.sph.umn.edu/bio/sph-a-z/james-hodges)
 - Lecturer, School of Management, Zhicheng College, Fuzhou University
 
 
