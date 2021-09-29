@@ -20,7 +20,6 @@ navbar-links:
   Publications: "publications"
   Software: "software"
   Contact: "contact"
-  中文: "index_cn"
   
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
