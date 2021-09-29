@@ -6,7 +6,7 @@ use-site-title: true
 order: 1
 ---
 
-### News
+### 动态
 
 - **2021年9月**: 开发R语言程序包[**HSVS-M**](https://github.com/yiyangphd/HSVSM)，可同时检测多个遗传标记和多个性状的关联性。
 
