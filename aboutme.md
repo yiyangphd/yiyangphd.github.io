@@ -7,7 +7,7 @@ title: About me
 
 - PhD in Biostatistics, University of Minnesota
    - Advisors: [Dr. Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang) and [Dr. Saonli Basu](https://directory.sph.umn.edu/bio/sph-a-z/saonli-basu) 
-   - Dissertation: Bayesian hierarchical variable selection methods with applications to genome-wide association studies
+   - Dissertation: Bayesian hierarchical models for multi-variant and multi-trait genome-wide association studies
 - BS in Management Information Systems, Zhejiang University
    - Advisor: [Dr. Qiuzhen Wang](https://www.x-mol.com/university/faculty/301513)
    - Dissertation: Effects of human images on B2C websites
