@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-1. **Yang, Y.**, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies.](https://doi.org/10.1002/gepi.22437) Genetic Epidemiology.
-2. **Yang, Y.**, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for rare-variant association testing.](https://doi.org/10.1002/gepi.22379) Genetic Epidemiology, 45(4), 413-424.
+1. **Yang, Y.***, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies.](https://doi.org/10.1002/gepi.22437) Genetic Epidemiology.
+2. **Yang, Y.***, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for rare-variant association testing.](https://doi.org/10.1002/gepi.22379) Genetic Epidemiology, 45(4), 413-424.
 3. **Yang, Y.**, Basu, S., & Zhang, L. (2020). [A Bayesian hierarchical variable selection prior for pathway-based GWAS using summary statistics.](https://doi.org/10.1002/sim.8442) Statistics in Medicine, 39, 724–739. 
 4. **Yang, Y.**, Basu, S., Mirabello, L., Spector, L., & Zhang, L. (2018). [A Bayesian gene-based genome-wide association study analysis of osteosarcoma trio data using a hierarchically structured prior.](https://doi.org/10.1177/1176935118775103) Cancer Informatics, 17, 1176935118775103.
 5. Harindhanavudhi, T., **Yang, Y.**, Hodges, J., Pruett, T., Kirchner, V., Beilman, G., & Bellin, M. (2021). [Body composition is associated with islet function after pancreatectomy and islet autotransplantation for pancreatitis.](https://doi.org/10.1210/clinem/dgaa790) Journal of Clinical Endocrinology & Metabolism, 106(2), e496–e506.
@@ -21,3 +21,5 @@ title: Publications
 **Forthcoming**
 
 15. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2021+). KnockoffTrio: A knockoff framework for the identification of putative causal variants in genetic association studies with trio design.
+
+*Corresponding author
