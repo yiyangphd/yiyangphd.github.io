@@ -8,7 +8,7 @@ order: 1
 ### Address
 
 Department of Biostatistics\
-Columbia University Mailman School of Public Health\
+Columbia University\
 722 West 168th Street, New York, NY 10032
 
 ### Email
