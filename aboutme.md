@@ -10,7 +10,7 @@ title: About me
    - Dissertation: Bayesian hierarchical models for multi-variant and multi-trait genome-wide association studies
 - BS in Management Information Systems, Chu Kochen Honors College, Zhejiang University
    - Advisor: [Dr. Qiuzhen Wang](https://www.x-mol.com/university/faculty/301513)
-   - Dissertation: Effects of human images on B2C websites
+   - Dissertation: Effects of human images on B2C websites: an eye-tracking study
 
 ### Work Experience
 
