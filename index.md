@@ -8,6 +8,8 @@ order: 1
 
 ### News
 
+- **Dec 2021**: Invited talk **Bayesian hierarchical models and knockoff statistics for variable selection** at the Beijing Normal University Young Scholars Forum
+
 - **Nov 2021**: Published paper [**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437) in Genetic Epidemiology
 
 - **Sep 2021**: Published R package [**HSVS-M**](https://github.com/yiyangphd/HSVSM) for multi-variant multi-trait association testing
