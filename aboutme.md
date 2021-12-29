@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+[Curriculum Vitae](https://github.com/yiyangphd/yiyangphd.github.io/raw/master/assets/Yi%20Yang%20Curriculum%20Vitae%2020211229.pdf) (Updated: December 29, 2021)
+
 ### Education
 
 - PhD in Biostatistics, University of Minnesota
