@@ -20,4 +20,4 @@ title: Publications
 
 **Forthcoming**
 
-15. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2022+). KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design.
+15. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2022+). KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design. Under review.
