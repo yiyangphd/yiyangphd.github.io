@@ -8,6 +8,8 @@ order: 1
 
 ### News
 
+- **Mar 2022**: Submitted paper [**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](http://www.columbia.edu/~ii2135/ms_knockofftrio.pdf)
+
 - **Dec 2021**: Invited talk **Bayesian hierarchical models and knockoff statistics for variable selection** at the Beijing Normal University Young Scholars Forum
 
 - **Nov 2021**: Published paper [**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437) in Genetic Epidemiology
