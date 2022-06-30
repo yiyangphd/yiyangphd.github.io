@@ -13,4 +13,4 @@ Columbia University\
 
 ### Email
 
-yy3136 at cumc.columbia.edu
+yi.yang at cityu.edu.hk
