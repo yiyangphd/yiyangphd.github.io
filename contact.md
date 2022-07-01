@@ -8,8 +8,8 @@ order: 1
 ### Address
 
 Department of Biostatistics\
-Columbia University\
-722 West 168th Street, New York, NY 10032
+City University of Hong Kong\
+83 Tat Chee Avenue, Kowloon Tong, Hong Kong
 
 ### Email
 
