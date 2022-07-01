@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yi Yang
-subtitle: Postdoctoral Research Scientist at Columbia University
+subtitle: Assistant Professor at the City University of Hong Kong
 use-site-title: true
 order: 1
 ---
