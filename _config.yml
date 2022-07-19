@@ -15,7 +15,7 @@ author: Yi Yang, PhD
 
 navbar-links:
   Home: "https://yiyangphd.github.io"
-  About Me: "aboutme"
+  About: "aboutme"
   Research: "research"
   Publications: "publications"
   Software: "software"
@@ -46,7 +46,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-   email: "yy3136@cumc.columbia.com"
+   email: "yi.yang@cityu.edu.hk"
    google-scholar: citations?user=5emLpPkAAAAJ&hl=en
    ORCID: 0000-0002-1471-4026
    github: yiyangphd
