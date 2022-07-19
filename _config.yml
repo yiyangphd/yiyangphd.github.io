@@ -20,7 +20,7 @@ navbar-links:
   Publications: "publications"
   Software: "software"
   Contact: "contact"
-  中文: "https://yiyangphd.github.io/cn"
+  #中文: "https://yiyangphd.github.io/cn"
   
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
