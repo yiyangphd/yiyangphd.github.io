@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yi Yang
-subtitle: Assistant Professor \r\n Department of Biostatistics and School of Data Science \r\n City University of Hong Kong
+subtitle: Assistant Professor \n Department of Biostatistics and School of Data Science \n City University of Hong Kong
 use-site-title: true
 order: 1
 ---
