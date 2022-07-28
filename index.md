@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Yi Yang
+subtitle: Assistant Professor
 use-site-title: true
 order: 1
 ---
-<p align="center",style="font-size: 30px">
-<b>Assistant Professor</b><br />
+<p align="center">
 Department of Biostatistics and School of Data Science<br />
 City University of Hong Kong
 </p>
