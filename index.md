@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Yi Yang
-subtitle: Assistant Professor
 use-site-title: true
 order: 1
 ---
 <p align="center">
-Department of Biostatistics and School of Data Science<br />
-City University of Hong Kong
+  <b>Assistant Professor</b><br />
+  Department of Biostatistics and School of Data Science<br />
+  City University of Hong Kong
 </p>
 
 ### News
