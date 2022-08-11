@@ -8,7 +8,7 @@ order: 1
 ### Address
 
 Department of Biostatistics\
-Room G5-753, 5/F\
+Room G5753, 5/F\
 Yeung Kin Man Academic Building\
 City University of Hong Kong\
 83 Tat Chee Avenue, Kowloon Tong, Hong Kong
