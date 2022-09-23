@@ -12,7 +12,7 @@ order: 1
 
 ### News
 
-- **Aug 2022**: Paper [**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](http://www.columbia.edu/~ii2135/ms_knockofftrio.pdf) accepted at the American Journal of Human Genetics
+- **Sep 2022**: Published paper [**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](https://doi.org/10.1016/j.ajhg.2022.08.013) in the American Journal of Human Genetics
 
 - **Jun 2022**: Invited talk **KnockoffTrio: Variable selection in genetic association studies with trio design** at Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine
 
