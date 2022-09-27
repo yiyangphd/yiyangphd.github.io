@@ -4,7 +4,7 @@ title: Publications
 ---
 *Corresponding author
 1. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2022). [KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design.](https://doi.org/10.1016/j.ajhg.2022.08.013) The American Journal of Human Genetics. doi:10.1016/j.ajhg.2022.08.013.
-2. **Yang, Y.***, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies.](https://doi.org/10.1002/gepi.22437) Genetic Epidemiology, 46(1), 63-72.
+2. **Yang, Y.***, Basu, S., & Zhang, L. (2022). [A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies.](https://doi.org/10.1002/gepi.22437) Genetic Epidemiology, 46(1), 63-72.
 3. **Yang, Y.***, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for rare-variant association testing.](https://doi.org/10.1002/gepi.22379) Genetic Epidemiology, 45(4), 413-424.
 4. **Yang, Y.**, Basu, S., & Zhang, L. (2020). [A Bayesian hierarchical variable selection prior for pathway-based GWAS using summary statistics.](https://doi.org/10.1002/sim.8442) Statistics in Medicine, 39, 724–739. 
 5. **Yang, Y.**, Basu, S., Mirabello, L., Spector, L., & Zhang, L. (2018). [A Bayesian gene-based genome-wide association study analysis of osteosarcoma trio data using a hierarchically structured prior.](https://doi.org/10.1177/1176935118775103) Cancer Informatics, 17, 1176935118775103.
