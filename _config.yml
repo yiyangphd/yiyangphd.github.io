@@ -16,7 +16,8 @@ author: Yi Yang, PhD
 navbar-links:
   Home: "https://yiyangphd.github.io"
   About: "aboutme"
-  Research: "research"
+  Openings: "openings"
+  #Research: "research"
   Publications: "publications"
   Software: "software"
   Contact: "contact"
