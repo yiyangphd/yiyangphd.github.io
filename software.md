@@ -9,5 +9,5 @@ title: Software
 
 - [**HSVS-M**](https://github.com/yiyangphd/HSVSM): a Bayesian method for multi-variant multi-trait association testing using summary statistics. It implements the method in [**A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437). 
 
-- **HSVS-A**: a Bayesian method for rare-variant association testing. It implements the method in [**A Bayesian hierarchically structured prior for rare‐variant
-association testing**](https://doi.org/10.1002/gepi.22379). The package is in progress.
+- [**HSVS-A**](https://drive.google.com/file/d/1_6qtqkPqM8icAB1oMOdYG83aV1VLY4G2/view?usp=sharing): a Bayesian method for rare-variant association testing. It implements the method in [**A Bayesian hierarchically structured prior for rare‐variant
+association testing**](https://doi.org/10.1002/gepi.22379). 
