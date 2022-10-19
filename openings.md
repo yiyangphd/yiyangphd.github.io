@@ -17,6 +17,8 @@ One Ph.D. opening in Fall 2023 in the Department of Biostatistics at City Univer
 
 Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk). The details of the Ph.D. program will be available soon.
 
+***
+
 ## Research Assistants
 
 One RA opening (immediately available) in the Department of Biostatistics at City University of Hong Kong. 
