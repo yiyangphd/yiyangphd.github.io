@@ -22,8 +22,6 @@ order: 1
 
 - **Nov 2021**: Published paper [**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437) in Genetic Epidemiology
 
-- **Sep 2021**: Published R package [**HSVS-M**](https://github.com/yiyangphd/HSVSM) for multi-variant multi-trait association testing
-
 - **May 2021**: Contributed talk **Knockoff statistics and applications to genome-wide association studies** at the Statistical Genetics Journal Club of Columbia University Irving Medical Center
 
 - **Feb 2021**: Published paper [**A Bayesian hierarchically structured prior for rare‐variant association testing**](https://doi.org/10.1002/gepi.22379) in Genetic Epidemiology
