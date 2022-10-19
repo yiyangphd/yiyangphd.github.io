@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-[Curriculum Vitae](https://github.com/yiyangphd/yiyangphd.github.io/raw/master/assets/Yi%20Yang%20Curriculum%20Vitae%2020220823.pdf) (Updated: Sep 1, 2022)
+[Curriculum Vitae](https://github.com/yiyangphd/yiyangphd.github.io/raw/master/assets/Yi%20Yang%20Curriculum%20Vitae%2020221018.pdf) (Updated: Oct 19, 2022)
 
 ### Education
 
