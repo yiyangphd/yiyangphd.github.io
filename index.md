@@ -10,9 +10,9 @@ order: 1
   City University of Hong Kong
 </p>
 
-### News
+### [Openings for Ph.D. students and research assistants](https://yiyangphd.github.io/openings/)
 
-- [**Openings for Ph.D. students and research assistants**](https://yiyangphd.github.io/openings/)
+### News
 
 - **Oct 2022**: Published paper [**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](https://doi.org/10.1016/j.ajhg.2022.08.013) in the American Journal of Human Genetics
 
