@@ -9,7 +9,7 @@ order: 1
   Department of Biostatistics and School of Data Science<br />
   City University of Hong Kong<br />
   <br />
-  Statistical Genetics &middot; Genome-wide Association Studies &middot; Knockoff Statistics &middot; Bayesian Hierarchical Models
+  Statistical Genetics &middot; Knockoff Statistics &middot; Bayesian Hierarchical Models
 </p>
 
 ### [Openings for Ph.D. students and research assistants](https://yiyangphd.github.io/openings/)
