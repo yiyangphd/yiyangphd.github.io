@@ -11,6 +11,7 @@ I have one Ph.D. opening in Fall 2023 in the Department of Biostatistics at City
 
 **Qualifications**
 - A bachelor's degree in statistics, mathematics, computer science, data science, bioinformatics, or related fields
+- A master's degree in a related field is desirable but not required
 - Programming skills in R or Python
 
 **Application**
