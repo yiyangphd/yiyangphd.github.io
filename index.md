@@ -7,9 +7,7 @@ order: 1
 <p align="center">
   <b>Assistant Professor</b><br />
   Department of Biostatistics and School of Data Science<br />
-  City University of Hong Kong<br />
-  <br />
-  Statistical Genetics &middot; Knockoff Statistics &middot; Bayesian Statistics
+  City University of Hong Kong
 </p>
 
 ### [Openings for Ph.D. students and research assistants](https://yiyangphd.github.io/openings/)
