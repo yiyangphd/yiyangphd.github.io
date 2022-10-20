@@ -7,6 +7,13 @@ title: About
 
 [CityU Staff Profile](https://www.cityu.edu.hk/stfprofile/yi.yang.htm) and [CityU Scholar Profile](https://scholars.cityu.edu.hk/en/persons/yi-yang(4e41c70d-aa39-4613-99b2-1119b8348766).html)
 
+### Research Interests
+
+- Statistical genetics
+- Genome-wide association studies
+- Knockoff statistics
+- Bayesian hierarchical models
+
 ### Education
 
 - PhD in Biostatistics, University of Minnesota
