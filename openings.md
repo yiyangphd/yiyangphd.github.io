@@ -7,7 +7,7 @@ order: 1
 
 ## Ph.D. Students
 
-One Ph.D. opening in Fall 2023 in the Department of Biostatistics at City University of Hong Kong. 
+I have one Ph.D. opening in Fall 2023 in the Department of Biostatistics at City University of Hong Kong. 
 
 **Qualifications**
 - A bachelor's degree in statistics, mathematics, computer science, data science, bioinformatics, or related fields
@@ -21,7 +21,7 @@ Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto
 
 ## Research Assistants
 
-One RA opening (immediately available) in the Department of Biostatistics at City University of Hong Kong. 
+I have one RA opening immediately available in the Department of Biostatistics at City University of Hong Kong. 
 
 **Qualifications**
 - Has obtained or will obtain a master's degree in (bio)statistics, mathematics, computer science, data science, bioinformatics, or related fields
