@@ -5,7 +5,7 @@ use-site-title: true
 order: 1
 ---
 
-I have multiple openings for Ph.D. students and research assistants (RAs) who are interested in (1) developing statistical methods to discover risk genetic variants for human diseases and (2) implementing proposed methods in R or Python. The Ph.D. students and RAs will receive rigorous training in statistical theory, statistical computing, and academic writing, which will prepare them for careers in both academia and industry.
+I have multiple openings for Ph.D. students and research assistants (RAs) who are interested in (1) developing statistical methods to identify risk genetic variants for human diseases and (2) implementing proposed methods in R or Python. The Ph.D. students and RAs will receive rigorous training in statistical theory, statistical computing, and academic writing, which will prepare them for careers in both academia and industry.
 
 ## Ph.D. Students
 
