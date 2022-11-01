@@ -18,7 +18,7 @@ I have one Ph.D. opening in Fall 2023 in the Department of Biostatistics at City
 
 **Application**
 
-Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk). The details of the Ph.D. program will be available soon.
+Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk). The details of the Ph.D. program will be available soon. I will also work closely with qualified candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which will provide them an annual stipend of US$41,690, a travel allowance of US$1,740, free tuition, and free on-campus housing. 
 
 ***
 
