@@ -10,7 +10,7 @@ order: 1
   City University of Hong Kong
 </p>
 
-### [Openings for Ph.D. students and research assistants](https://yiyangphd.github.io/openings/)
+### [Openings for Ph.D. students](https://yiyangphd.github.io/openings/)
 
 ### News
 
