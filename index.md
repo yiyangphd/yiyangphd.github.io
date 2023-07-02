@@ -14,6 +14,8 @@ order: 1
 
 ### News
 
+- **Jul 2023**: Awarded the Early Career Scheme (ECS) grant by the Research Grants Council of Hong Kong
+
 - **Oct 2022**: Published paper [**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](https://doi.org/10.1016/j.ajhg.2022.08.013) in *the American Journal of Human Genetics*
 
 - **Jun 2022**: Invited talk **KnockoffTrio: Variable selection in genetic association studies with trio design** at Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine
