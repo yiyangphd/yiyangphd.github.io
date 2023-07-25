@@ -1,3 +1,5 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
   {%- if site.title-img -%}
@@ -58,5 +60,21 @@
   {% endif %}
 
 </nav>
+
+<script>
+  // Add hover functionality to dropdowns
+  $(document).ready(function () {
+    $('.nav-item.dropdown').hover(
+      function () {
+        $(this).addClass('show');
+        $(this).children('.dropdown-menu').addClass('show');
+      },
+      function () {
+        $(this).removeClass('show');
+        $(this).children('.dropdown-menu').removeClass('show');
+      }
+    );
+  });
+</script>
 
 {% include search.html %}
