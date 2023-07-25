@@ -12,7 +12,7 @@ title: Talks
 6.	Beijing Normal University Young Scholars Forum, Beijing, China, Dec 2021.
 
 ### Contributed
-8.	Columbia University Irving Medical Center Statistical Genetics Journal Club, New York, NY, USA. May 2021.
-9.	The 2019 Joint Statistical Meetings (JSM), Denver, CO, USA. July 2019.
-10.	The 2019 American Statistical Association (ASA) Twin Cities Chapter spring event, Minneapolis, MN, USA. April 2019.
-11.	The 2018 Joint Statistical Meetings (JSM), Vancouver, BC, Canada. July 2018.
+7.	Columbia University Irving Medical Center Statistical Genetics Journal Club, New York, NY, USA. May 2021.
+8.	The 2019 Joint Statistical Meetings (JSM), Denver, CO, USA. July 2019.
+9.	The 2019 American Statistical Association (ASA) Twin Cities Chapter spring event, Minneapolis, MN, USA. April 2019.
+10.	The 2018 Joint Statistical Meetings (JSM), Vancouver, BC, Canada. July 2018.
