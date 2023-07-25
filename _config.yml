@@ -19,6 +19,7 @@ navbar-links:
   Openings: "openings"
   Research: 
     - Publications: "publications"
+    - Grants: "grants"
     - Talks: "talks"
   Software: "software"
   Contact: "contact"
