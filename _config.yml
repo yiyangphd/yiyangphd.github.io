@@ -17,8 +17,8 @@ navbar-links:
   Home: "https://yiyangphd.github.io"
   About: "aboutme"
   Openings: "openings"
-  #Research: "research"
-  Publications: "publications"
+  Research:
+    - Publications: "publications"
   Software: "software"
   Contact: "contact"
   #中文: "https://yiyangphd.github.io/cn"
