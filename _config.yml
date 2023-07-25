@@ -19,6 +19,7 @@ navbar-links:
   Openings: "openings"
   Research:
     - Publications: "publications"
+    - Talks: "talks"
   Software: "software"
   Contact: "contact"
   #中文: "https://yiyangphd.github.io/cn"
