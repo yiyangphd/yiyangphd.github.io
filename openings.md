@@ -20,7 +20,7 @@ Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto
 
 \* I may not be able to respond to each applicant due to the high volume of applications received.
 
-<br/>
+---
 
 ## SDSC6006 Dissertation
 
