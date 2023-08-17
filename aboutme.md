@@ -3,14 +3,14 @@ layout: page
 title: About
 ---
 
-My research focuses on variable selection methods for high-dimensional data using knockoff statistics and Bayesian hierarchical models. I have developed a number of statistical methods to identify risk variants for human diseases in genetic datasets with complex hierarchical and correlation structures. I also worked as the principal statistician on several collaborative projects with physician researchers. My research interests include high-dimensional variable selection, statistical genetics, knockoff statistics, and Bayesian hierarchical models.
+I received my PhD and MS in Biostatistics from the University of Minnesota and my BS in Management Information Systems from Chu Kochen Honors College, Zhejiang University. Prior to joining CityU, I served as a postdoctoral research scientist in the Department of Biostatistics at Columbia University under the supervision of Professor Iuliana Ionita-Laza. My research focuses on variable selection methods for high-dimensional data using knockoff statistics, statistical machine learning, and Bayesian hierarchical models. I have developed a number of statistical methods to identify risk variants for human diseases in genetic data with complex hierarchical and correlation structures. I also worked as the principal statistician on several collaborative projects with physician researchers. My research interests include statistical genetics, statistical machine learning, knockoff statistics, and Bayesian statistics.
 
 ### Research Interests
 
 - Statistical genetics
-- Genome-wide association studies
+- Statistical machine learning
 - Knockoff statistics
-- Bayesian hierarchical models
+- Bayesian statistics
 
 ### Education
 
