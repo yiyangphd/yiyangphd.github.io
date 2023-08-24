@@ -15,7 +15,7 @@ order: 1
 
 ### News
 
-- **Jul 2023**: Awarded the **Early Career Scheme (ECS)** grant as PI by the Research Grants Council of Hong Kong
+- **Jul 2023**: Awarded the **Early Career Scheme (ECS, 杰出青年学者计划)** grant as PI by the Research Grants Council of Hong Kong
 
 - **Oct 2022**: Published paper [**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](https://doi.org/10.1016/j.ajhg.2022.08.013) in *the American Journal of Human Genetics*
 
