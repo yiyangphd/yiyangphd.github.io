@@ -5,7 +5,7 @@ title: Students
 
 ## Current students
 
-<img align="left" src="/assets/img/zy.jpg" alt="drawing" width="200"/>
+<img align="left" src="/assets/img/zy.jpg" alt="drawing" width="160"/>
 
  **Yue Zhou** <br />
  PhD advisee (2023 - ) <br />
@@ -14,7 +14,7 @@ title: Students
 
 <br /><br /><br /><br />
 
-<img align="left" src="/assets/img/wq.jpg" alt="drawing" width="200"/> 
+<img align="left" src="/assets/img/wq.jpg" alt="drawing" width="160"/> 
 
  **Qi Wang** <br />
  PhD advisee (2023 - ) with <a href="https://scholars.cityu.edu.hk/en/persons/linyan-li(42e8876e-e92d-423b-a3d0-2d28229bd6f0).html">Prof. Linyan Li</a> <br />
