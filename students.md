@@ -5,9 +5,7 @@ title: Students
 
 ## Current students
 
-<div style="margin-right: 30px;">
-<img align="left" src="/assets/img/zy.jpg" alt="drawing" width="200"/> 
-</div>
+<img align="left" src="/assets/img/zy.jpg" alt="drawing" width="200"/>
 
 ### Yue Zhou
 PhD advisee (2023 - ) <br />
@@ -16,9 +14,7 @@ BS in Statistics, Wuhan University  <br />
 
 <br /><br /><br /><br />
 
-<div style="margin-right: 30px;">
 <img align="left" src="/assets/img/wq.jpg" alt="drawing" width="200"/> 
-</div>
 
 ### Qi Wang
 PhD advisee (2023 - ) with <a href="https://scholars.cityu.edu.hk/en/persons/linyan-li(42e8876e-e92d-423b-a3d0-2d28229bd6f0).html">Prof. Linyan Li</a> <br />
