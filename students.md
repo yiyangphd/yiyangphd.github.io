@@ -17,7 +17,7 @@ BS in Statistics, Wuhan University  <br />
 <img align="left" src="/assets/img/wq.jpg" alt="drawing" width="200"/> 
 
 ### Qi Wang
-PhD advisee (2023 - ) with <a href="https://www.cityu.edu.hk/stfprofile/linyanli.htm">Prof. Linyan Li</a> <br />
+PhD advisee (2023 - ) with <a href="https://scholars.cityu.edu.hk/en/persons/linyan-li(42e8876e-e92d-423b-a3d0-2d28229bd6f0).html">Prof. Linyan Li</a> <br />
 MS in Data Science, The City University of Hong Kong <br />
 BS in Statistics, Sichuan University  <br />
 
