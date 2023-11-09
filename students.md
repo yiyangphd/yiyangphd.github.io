@@ -12,7 +12,7 @@ title: Students
  MPhil in Mathematics, The Chinese University of Hong Kong <br />
  BS in Statistics, Wuhan University  <br />
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 <img align="left" src="/assets/img/wq.jpg" alt="drawing" width="160"/> 
 
