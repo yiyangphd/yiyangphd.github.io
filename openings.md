@@ -12,7 +12,7 @@ I have an opening for a PhD student in the Department of Biostatistics at City U
 #### Qualifications
 - A bachelor's degree in statistics, mathematics, computer science, data science, bioinformatics, or related fields
 - A master's degree in a related field is desirable but not required
-- Programming skills in R or Python
+- Strong programming skills in R or Python
 
 #### Application
 
@@ -24,4 +24,4 @@ Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto
 
 ## SDSC6006 Dissertation
 
-Strong programming skills in R or Python are required for SDSC MSc students interested in working with me on a dissertation. Please send your resume/CV, transcript(s), and sample code to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).
+Strong programming skills in R or Python are required for SDSC MSc students interested in working with me on a dissertation. Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).
