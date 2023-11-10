@@ -21,3 +21,11 @@ title: Students
  MS in Data Science, The City University of Hong Kong <br />
  BS in Statistics, Sichuan University  <br />
 
+<br /><br />
+
+<div class="image-container">
+  <img src="/assets/img/test.jpg" alt="Image" width="160">
+  <div class="text-container">
+    <p>test image</p>
+  </div>
+</div>
