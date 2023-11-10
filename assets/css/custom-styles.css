@@ -4,11 +4,15 @@
 }
 
 .image-container img {
-  margin-right: 30px;
+  margin-right: 10px;
 }
 
 .text-container {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+}
+
+.bold-text {
+  font-weight: bold;
 }
