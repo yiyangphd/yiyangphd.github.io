@@ -5,12 +5,15 @@ title: Students
 
 ## Current students
 
-<img align="left" src="/assets/img/zy.jpg" alt="drawing" width="160">
-
- **Yue Zhou** <br />
- PhD advisee (2023 - ) <br />
- MPhil in Mathematics, The Chinese University of Hong Kong <br />
- BS in Statistics, Wuhan University  <br />
+<div class="image-container">
+  <img src="/assets/img/zy.jpg" alt="Image" width="160">
+  <div class="text-container">
+    <p>Yue Zhou</p>
+    <p>PhD advisee (2023 - )</p>
+    <p>MPhil in Mathematics, The Chinese University of Hong Kong</p>
+    <p>BS in Statistics, Wuhan University</p>
+  </div>
+</div>
 
 <br /><br />
 
@@ -21,11 +24,5 @@ title: Students
  MS in Data Science, The City University of Hong Kong <br />
  BS in Statistics, Sichuan University  <br />
 
-<br /><br />
 
-<div class="image-container">
-  <img src="/assets/img/test.jpg" alt="Image" width="160">
-  <div class="text-container">
-    <p>test image</p>
-  </div>
-</div>
+
