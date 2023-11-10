@@ -1,5 +1,8 @@
-.left-aligned {
-  display: block;
-  float: left;
-  margin-right: 10px;
+.image-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.image-container img {
+  margin-right: 50px;
 }
