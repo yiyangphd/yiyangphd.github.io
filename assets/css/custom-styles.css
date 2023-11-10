@@ -1,0 +1,5 @@
+.left-aligned {
+  display: block;
+  float: left;
+  margin-right: 10px;
+}
