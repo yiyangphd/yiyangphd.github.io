@@ -8,10 +8,7 @@ title: Students
 <div class="image-container">
   <img src="/assets/img/zy.jpg" alt="Image" width="160">
   <div class="text-container">
-    <p>Yue Zhou</p>
-    <p>PhD advisee (2023 - )</p>
-    <p>MPhil in Mathematics, The Chinese University of Hong Kong</p>
-    <p>BS in Statistics, Wuhan University</p>
+    <p>Yue Zhou<br />PhD advisee (2023 - )<br />MPhil in Mathematics, The Chinese University of Hong Kong<br />BS in Statistics, Wuhan University</p>
   </div>
 </div>
 
