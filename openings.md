@@ -16,7 +16,7 @@ I have an opening for a PhD student in the Department of Biostatistics at City U
 
 #### Application
 
-Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).* I will also work closely with qualified candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which will provide them with an annual stipend of US$41,690, a travel allowance of US$1,740, free tuition, and free on-campus housing. 
+Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).* I will also work closely with qualified candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which will provide them with an annual stipend of US$41,690, a travel allowance of US$1,740, and one year of free tuition and on-campus housing. 
 
 \* I may not be able to respond to each applicant due to the high volume of applications received.
 
