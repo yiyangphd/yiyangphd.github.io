@@ -21,9 +21,9 @@ order: 1
 
 - **Jun 2022**: Invited talk **KnockoffTrio: Variable selection in genetic association studies with trio design** at Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine
 
-- **Mar 2022**: Invited talk **Knockoff statistics for variable selection in genetic association studies with trio design** at City University of Hong Kong School of Data Science
+<!-- - **Mar 2022**: Invited talk **Knockoff statistics for variable selection in genetic association studies with trio design** at City University of Hong Kong School of Data Science --->
 
-- **Dec 2021**: Invited talk **Bayesian hierarchical models and knockoff statistics for variable selection** at the Beijing Normal University Young Scholars Forum
+<!-- - **Dec 2021**: Invited talk **Bayesian hierarchical models and knockoff statistics for variable selection** at the Beijing Normal University Young Scholars Forum --->
 
 - **Nov 2021**: Published paper [**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437) in *Genetic Epidemiology*
 
