@@ -15,6 +15,8 @@ order: 1
 - SDSC 6006: Dissertation (Fall 2022, Spring 2023)
 - SDSC 6002: Research Projects for Data Science (Spring 2023)
 
+---
+
 ## University of Minnesota
 
 #### Teaching Assistant
