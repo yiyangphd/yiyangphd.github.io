@@ -27,6 +27,6 @@ order: 1
 
 ### Teaching Assistant
 
-- PubH 6450: Biostatistics I (Fall 2015, Spring 2016)
+- PUBH 6450: Biostatistics I (Fall 2015, Spring 2016)
   
-- PubH 6414: Biostatistics Literacy (Fall 2015, Spring 2016)
+- PUBH 6414: Biostatistics Literacy (Fall 2015, Spring 2016)
