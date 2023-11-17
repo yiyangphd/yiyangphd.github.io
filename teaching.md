@@ -7,7 +7,7 @@ order: 1
 
 ## City University of Hong Kong
 
-#### Instructor
+### Instructor
 
 - BIOS 5802: Advanced Methods in Biostatistics (Spring 2023, 2024)
   
@@ -25,7 +25,7 @@ order: 1
 
 ## University of Minnesota
 
-#### Teaching Assistant
+### Teaching Assistant
 
 - PubH 6450: Biostatistics I (Fall 2015, Spring 2016)
   
