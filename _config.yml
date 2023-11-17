@@ -16,13 +16,14 @@ author: Yi Yang, PhD
 navbar-links:
   Home: "https://yiyangphd.github.io"
   About: "aboutme"
-  Openings: "openings"
   Research: 
     - Publications: "publications"
     - Grants: "grants"
     - Talks: "talks"
     - Students: "students"
   Software: "software"
+  Teaching: "teaching"
+  Openings: "openings"
   Contact: "contact"
   #中文: "https://yiyangphd.github.io/cn"
   
