@@ -9,12 +9,17 @@ order: 1
 
 ### Instructor
 
-- BIOS 5802: Advanced Methods in Biostatistics (Spring 2023, 2024) <br>
-- SDSC 3105: Bayesian Analysis (Fall 2023)<br>
-- BIOS 8001: Seminars on Biostatistics (Fall 2023, Spring 2024)<br>
-- BIOS 6903: Communication and Project Study (Summer 2023)<br>
-- SDSC 6006: Dissertation (Fall 2022, Spring 2023)<br>
-- SDSC 6002: Research Projects for Data Science (Spring 2023)<br>
+- BIOS 5802: Advanced Methods in Biostatistics (Spring 2023, 2024)
+  
+- SDSC 3105: Bayesian Analysis (Fall 2023)
+  
+- BIOS 8001: Seminars on Biostatistics (Fall 2023, Spring 2024)
+  
+- BIOS 6903: Communication and Project Study (Summer 2023)
+  
+- SDSC 6006: Dissertation (Fall 2022, Spring 2023)
+  
+- SDSC 6002: Research Projects for Data Science (Spring 2023)
 
 ---
 
