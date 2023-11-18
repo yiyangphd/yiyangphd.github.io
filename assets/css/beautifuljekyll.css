@@ -207,7 +207,7 @@ img {
 }
 
 .dropdown-toggle::after {
-  border-width: 0.3em;
+  border-width: 0.5em;
 }
 
 @media (min-width: 1200px) {
