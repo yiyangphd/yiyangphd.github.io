@@ -10,7 +10,7 @@ order: 1
   City University of Hong Kong
 </p>
 
-### [Openings for PhD students in Fall 2024](https://yiyangphd.github.io/openings/) 
+<!--- ### [Openings for PhD students in Fall 2024](https://yiyangphd.github.io/openings/) --->
 <!--- hidden content --->
 
 ### News
