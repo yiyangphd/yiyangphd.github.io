@@ -15,7 +15,7 @@ order: 1
 
 ### News
 
-- **May 2024**: Published paper **KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies** in *the American Journal of Human Genetics*
+- **May 2024**: Published paper [**KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies**](https://authors.elsevier.com/a/1jAqCgeXA8s2) in *the American Journal of Human Genetics*
 
 - **Jul 2023**: Awarded the **Early Career Scheme (ECS, 杰出青年学者计划)** grant as PI by the Research Grants Council of Hong Kong
 
