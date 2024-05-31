@@ -4,7 +4,7 @@ title: Publications
 ---
 *Corresponding author
 
-1. **Yang, Y.**\*, Wang, Q., Wang, C., Buxbaum, J., & Ionita-Laza, I. (2024). KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies. *The American Journal of Human Genetics*. In press.
+1. **Yang, Y.**\*, Wang, Q., Wang, C., Buxbaum, J., & Ionita-Laza, I. (2024). [KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies.](https://authors.elsevier.com/a/1jAqCgeXA8s2) *The American Journal of Human Genetics*, in press.
 2. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2022). [KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design.](https://doi.org/10.1016/j.ajhg.2022.08.013) *The American Journal of Human Genetics*, 109(10), 1761-1776.
 3. **Yang, Y.**\*, Basu, S., & Zhang, L. (2022). [A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies.](https://doi.org/10.1002/gepi.22437) *Genetic Epidemiology*, 46(1), 63-72.
 4. **Yang, Y.**\*, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for rare-variant association testing.](https://doi.org/10.1002/gepi.22379) *Genetic Epidemiology*, 45(4), 413-424.
