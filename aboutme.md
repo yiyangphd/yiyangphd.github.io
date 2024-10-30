@@ -10,7 +10,7 @@ My research focuses on variable selection methods for high-dimensional data usin
 ### Research Interests
 
 - Statistical genetics
-- Statistical machine learning
+- Genome-wide association studies
 - Knockoff statistics
 - Bayesian statistics
 
