@@ -28,6 +28,6 @@ My research focuses on variable selection methods for high-dimensional data usin
 - Research Assistant, University of Minnesota
    - Supervisors: Drs. [James Hodges](https://directory.sph.umn.edu/bio/sph-a-z/james-hodges) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)
 
-[Curriculum Vitae](https://github.com/yiyangphd/yiyangphd.github.io/raw/master/assets/Yi%20Yang%20Curriculum%20Vitae%2020231016.pdf) &#124; [CityU Staff Profile](https://www.cityu.edu.hk/stfprofile/yi.yang.htm) &#124; [CityU Scholar Profile](https://scholars.cityu.edu.hk/en/persons/yi-yang(4e41c70d-aa39-4613-99b2-1119b8348766).html)
+[Curriculum Vitae](https://github.com/yiyangphd/yiyangphd.github.io/raw/master/assets/Yi%20Yang%20Curriculum%20Vitae%2020250121.pdf) &#124; [CityU Staff Profile](https://www.cityu.edu.hk/stfprofile/yi.yang.htm) &#124; [CityU Scholar Profile](https://scholars.cityu.edu.hk/en/persons/yi-yang(4e41c70d-aa39-4613-99b2-1119b8348766).html)
 
        
