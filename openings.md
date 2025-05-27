@@ -7,7 +7,7 @@ order: 1
 
 ## PhD Student
 
-I am looking for highly motivated PhD students to join my group in the Department of Biostatistics at City University of Hong Kong. The PhD students will have opportunities to (1) develop statistical methods to identify risk genetic variants for human diseases and (2) implement proposed methods in R or Python. The PhD students will receive rigorous training in statistical theory, statistical computing, and academic writing, which will prepare them for careers in both academia and industry.
+I am looking for highly motivated PhD students to join my group in the Department of Biostatistics at City University of Hong Kong. The PhD students will have opportunities to (1) develop statistical methods to identify genetic risk variants for human diseases and (2) implement proposed methods in R or Python. The PhD students will receive rigorous training in statistical theory, statistical computing, and academic writing, which will prepare them for careers in both academia and industry.
 
 #### Qualifications
 - Strong programming skills in R or Python are **required**
