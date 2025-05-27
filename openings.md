@@ -21,8 +21,3 @@ Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto
 
 \* I may not be able to respond to each applicant due to the high volume of applications received.
 
----
-
-## SDSC6006 Dissertation
-
-Strong programming skills in R or Python are required for SDSC MSc students interested in working with me on a dissertation. Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).
