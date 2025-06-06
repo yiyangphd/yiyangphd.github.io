@@ -5,7 +5,7 @@ title: Students
 
 ## Current PhD students
 
-Yinghao Fu (2024 - )
+[Yinghao Fu](https://eddiefua.github.io/) (2024 - )
 
 Jian Yin (2024 - )
 
