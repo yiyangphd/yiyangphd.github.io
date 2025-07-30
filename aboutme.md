@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-I am an Assistant Professor in the [Department of Biostatistics](https://www.cityu.edu.hk/bios/) and [Department of Data Science](https://www.ds.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/). I received a PhD in [Biostatistics](https://www.sph.umn.edu/academics/divisions/biostatistics/) from the [University of Minnesota](https://twin-cities.umn.edu/) and a BEng in [Management Information Systems](http://en.som.zju.edu.cn/) from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), [Zhejiang University](https://www.zju.edu.cn/english/). Prior to joining CityU, I served as a postdoctoral research scientist in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/) under the supervision of Professor [Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/). I am also a four-time recepient of the First Prize in the National Olympiad in Informatics (NOI), China.
+I am an Assistant Professor in the [Department of Biostatistics](https://www.cityu.edu.hk/bios/) at [City University of Hong Kong](https://www.cityu.edu.hk/). I received a PhD in [Biostatistics](https://www.sph.umn.edu/academics/divisions/biostatistics/) from the [University of Minnesota](https://twin-cities.umn.edu/) and a BEng in [Management Information Systems](http://en.som.zju.edu.cn/) from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), [Zhejiang University](https://www.zju.edu.cn/english/). Prior to joining CityU, I served as a postdoctoral research scientist in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/) under the supervision of Professor [Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/). I am also a four-time recipient of the First Prize in the National Olympiad in Informatics (NOI), China.
 
-My research focuses on variable selection methods for high-dimensional data using knockoff statistics, statistical machine learning, and Bayesian hierarchical models. I have developed a number of statistical methods to identify risk variants for human diseases in genetic data with complex hierarchical and correlation structures. My research is supported by the Research Grants Council of Hong Kong (RGC) [Early Career Scheme 21303323 (sole PI)](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=21303323&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=21303323).
+My research focuses on variable selection methods for high-dimensional data using knockoff statistics, machine learning, and Bayesian hierarchical models. I have developed a number of statistical methods to identify risk variants for human diseases in genetic data with complex hierarchical and correlation structures. My research is supported by the Research Grants Council of Hong Kong (RGC) [Early Career Scheme 21303323 (sole PI)](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=21303323&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=21303323).
 
 ### Research Interests
 
@@ -13,6 +13,8 @@ My research focuses on variable selection methods for high-dimensional data usin
 - Genome-wide association studies
 - Knockoff statistics
 - Bayesian statistics
+- Machine learning
+- High-dimensional variable selection
 
 ### Education
 
@@ -21,7 +23,7 @@ My research focuses on variable selection methods for high-dimensional data usin
 - BEng in Management Information Systems, Chu Kochen Honors College, Zhejiang University
    - Thesis advisor: [Dr. Qiuzhen Wang](https://person.zju.edu.cn/wqz)
 
-### Professional Experience
+### Employment
 
 - Postdoctoral Research Scientist, Columbia University
    - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
