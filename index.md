@@ -6,7 +6,7 @@ order: 1
 ---
 <p align="center">
   <b>Assistant Professor</b><br />
-  Department of Biostatistics and Department of Data Science<br />
+  Department of Biostatistics<br />
   City University of Hong Kong
 </p>
 
