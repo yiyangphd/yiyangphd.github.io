@@ -20,7 +20,7 @@ My research focuses on variable selection methods for high-dimensional data usin
 
 - PhD in Biostatistics, University of Minnesota
    - Thesis advisors: Drs. [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang) and [Saonli Basu](https://directory.sph.umn.edu/bio/sph-a-z/saonli-basu)
-- BEng in Management Information Systems, Chu Kochen Honors College, Zhejiang University
+- BEng in Management Information Systems, Zhejiang University
    - Thesis advisor: [Dr. Qiuzhen Wang](https://person.zju.edu.cn/wqz)
 
 ### Employment
