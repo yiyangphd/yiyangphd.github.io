@@ -14,6 +14,7 @@ order: 1
 - BIOS6903: Communication and Project Study (Summer 2023)
 - SDSC6006: Dissertation (Fall 2022, Spring 2023)
 - SDSC6002: Research Projects for Data Science (Spring 2023)
+
 ---
 
 ## University of Minnesota
@@ -21,6 +22,7 @@ order: 1
 ### Teaching Assistant
 - PUBH6450: Biostatistics I (Fall 2015, Spring 2016)
 - PUBH6414: Biostatistics Literacy (Fall 2015, Spring 2016)
+
 ---
 
 ## Student Feedback
