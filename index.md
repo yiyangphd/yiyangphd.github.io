@@ -17,7 +17,7 @@ order: 1
 
 - **Oct 2025**: Published paper **Knockoff-ML: A knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data** in *npj Digital Medicine*
 
-- **May 2024**: Published paper [**KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies**](https://authors.elsevier.com/a/1jAqCgeXA8s2) in *American Journal of Human Genetics*
+- **May 2024**: Published paper [**KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies**](https://doi.org/10.1016/j.ajhg.2024.05.003) in *American Journal of Human Genetics*
 
 - **Jul 2023**: Awarded the **Early Career Scheme (ECS, 杰出青年学者计划)** grant as PI by the Research Grants Council of Hong Kong
 
