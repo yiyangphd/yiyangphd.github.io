@@ -4,10 +4,10 @@ title: Publications
 ---
 *Corresponding author
 
-1. Fu, Y., **Yang, Y.**\* (2025+). Knockoff-augmented neural networks for identifying risk variants in family-based association studies.
-2. Wang, Q., Li, L., & **Yang, Y.**\* (2025). Knockoff-ML: A knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data. *npj Digital Medicine*.
-3. **Yang, Y.**\*, Wang, Q., Wang, C., Buxbaum, J., & Ionita-Laza, I. (2024). [KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies.](https://doi.org/10.1016/j.ajhg.2024.05.003) *The American Journal of Human Genetics*, 111(7), 1448-1461.
-4. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2022). [KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design.](https://doi.org/10.1016/j.ajhg.2022.08.013) *The American Journal of Human Genetics*, 109(10), 1761-1776.
+1. Fu, Y., **Yang, Y.**\* (2025+). Knockoff-augmented neural networks for identifying risk variants and epistatic interactions in family-based association studies.
+2. Wang, Q., Li, L., & **Yang, Y.**\* (2025). Knockoff-ML: A knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data. *npj Digital Medicine*, in press.
+3. **Yang, Y.**\*, Wang, Q., Wang, C., Buxbaum, J., & Ionita-Laza, I. (2024). [KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies.](https://doi.org/10.1016/j.ajhg.2024.05.003) *American Journal of Human Genetics*, 111(7), 1448-1461.
+4. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2022). [KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design.](https://doi.org/10.1016/j.ajhg.2022.08.013) *American Journal of Human Genetics*, 109(10), 1761-1776.
 5. **Yang, Y.**\*, Basu, S., & Zhang, L. (2022). [A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies.](https://doi.org/10.1002/gepi.22437) *Genetic Epidemiology*, 46(1), 63-72.
 6. **Yang, Y.**\*, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for rare-variant association testing.](https://doi.org/10.1002/gepi.22379) *Genetic Epidemiology*, 45(4), 413-424.
 7. **Yang, Y.**, Basu, S., & Zhang, L. (2020). [A Bayesian hierarchical variable selection prior for pathway-based GWAS using summary statistics.](https://doi.org/10.1002/sim.8442) *Statistics in Medicine*, 39, 724–739. 
