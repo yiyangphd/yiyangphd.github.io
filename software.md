@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-### R Packages
+- [**Knockoff-ML**](https://github.com/keiwong493/Knockoff-ML/): a knockoff machine learning framework for controlled variable selection and risk stratification in EHR data.
 
 - [**KnockoffHybrid**](https://cran.r-project.org/web/packages/KnockoffHybrid): a knockoff framework for the identification of risk genetic variants in genome-wide association studies using hybrid analysis of both the trio and population designs. It implements the method in [**KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies**](https://doi.org/10.1016/j.ajhg.2024.05.003).
   
