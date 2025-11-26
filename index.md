@@ -15,7 +15,7 @@ order: 1
 
 ### News
 
-- **Oct 2025**: Published paper **Knockoff-ML: A knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data** in *npj Digital Medicine*
+- **Oct 2025**: Published paper [**Knockoff-ML: A knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data**](https://doi.org/10.1038/s41746-025-02102-2) in *npj Digital Medicine*
 
 - **May 2024**: Published paper [**KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies**](https://doi.org/10.1016/j.ajhg.2024.05.003) in *American Journal of Human Genetics*
 
