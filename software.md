@@ -5,7 +5,7 @@ title: Software
 
 - [**KNOT**](https://github.com/EddieFua/KNOT): A knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.
 
-- [**Knockoff-ML**](https://github.com/keiwong493/Knockoff-ML): a knockoff machine learning framework for controlled variable selection and risk stratification in EHR data.
+- [**Knockoff-ML**](https://github.com/keiwong493/Knockoff-ML): a machine learning framework for variable selection with false discovery rate control. It implements the method in [**Knockoff-ML: a knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data**](https://doi.org/10.1038/s41746-025-02102-2).
 
 - [**KnockoffHybrid**](https://cran.r-project.org/web/packages/KnockoffHybrid): a knockoff framework for the identification of risk genetic variants in genome-wide association studies using hybrid analysis of both the trio and population designs. It implements the method in [**KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies**](https://doi.org/10.1016/j.ajhg.2024.05.003).
   
