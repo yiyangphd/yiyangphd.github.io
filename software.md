@@ -3,6 +3,8 @@ layout: page
 title: Software
 ---
 
+- [**KAMA**](https://github.com/JianYin-Gloria/KAMA): A knockoff-augmented meta-analysis framework for genome-wide association studies.
+
 - [**KNOT**](https://github.com/EddieFua/KNOT): A knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.
 
 - [**Knockoff-ML**](https://github.com/keiwong493/Knockoff-ML): a machine learning framework for variable selection with false discovery rate control. It implements the method in [**Knockoff-ML: a knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data**](https://doi.org/10.1038/s41746-025-02102-2).
