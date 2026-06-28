@@ -10,7 +10,7 @@ I am looking for highly motivated PhD students to join my group in the Departmen
 ### Qualification
 
 - Strong programming skills in R or Python are **required**
-- Interests and prior research experiences in **statistical genetics**
+- Publications or working manuscripts in **statistical genetics** or related fields
 - A bachelor's degree and a master's degree in statistics, computer science, bioinformatics, data science, or related fields
 
 
