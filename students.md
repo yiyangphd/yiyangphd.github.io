@@ -5,6 +5,10 @@ title: Students
 
 ## Current PhD students
 
+Wing Yee Sun (2026 - ), HKPFS awardee
+
+Yuxuan Yang (2026 - )
+
 [Yinghao Fu](https://eddiefua.github.io/) (2024 - )
 
 Jian Yin (2024 - )
