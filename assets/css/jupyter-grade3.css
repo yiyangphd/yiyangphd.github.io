@@ -199,8 +199,7 @@ div#notebook {
 
 .btn:hover,
 .btn:active:hover,
-.btn.active:hover,
-.open > .dropdown-toggle.btn:hover {
+.btn.active:hover {
   color: #ef5c00;
   border: 2px solid #e0e0e0;
   background-color: #e0e0e0;
@@ -215,9 +214,7 @@ div#notebook {
 .btn:active:focus,
 .btn.active:focus,
 .btn:active.focus,
-.btn.active.focus,
-.open > .dropdown-toggle.btn:focus,
-.open > .dropdown-toggle.btn.focus {
+.btn.active.focus {
   color: #ef5c00;
   border: 2px solid #e0e0e0;
   background-color: #e0e0e0 !important;
@@ -242,6 +239,14 @@ div#notebook {
   background-color: #ffccac !important;
   border-color: #ffccac !important;
   transition: 200ms ease !important;
+}
+
+
+.btn-sm {
+  font-size: inherit;
+  font-weight: normal;
+  height: inherit;
+  line-height: inherit;
 }
 
 button.close {
