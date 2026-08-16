@@ -2,7 +2,8 @@
 layout: page
 title: grants
 permalink: /grants/
-nav: false
+nav: true
+nav_order: 4
 ---
 
 ### PI

@@ -3,7 +3,7 @@ layout: page
 title: openings
 permalink: /openings/
 nav: true
-nav_order: 6
+nav_order: 9
 ---
 
 <!--- I am looking for highly motivated PhD students to join my group in the Department of Biostatistics at City University of Hong Kong. The PhD students will have opportunities to (1) develop statistical methods to identify genetic risk variants for human diseases and (2) implement proposed methods in R or Python. The PhD students will receive rigorous training in statistical theory, statistical computing, and academic writing, which will prepare them for careers in both academia and industry. --->
@@ -18,6 +18,6 @@ I am looking for highly motivated PhD students to join my group in the Departmen
 
 ### Application
 
-Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).* I will also work closely with qualified candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which will provide a monthly stipend of HK$28,700, an annual conference travel allowance of HK$14,400, and one year of free tuition and on-campus housing.
+Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).* I will also work closely with qualified candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which will provide a monthly stipend of HKD28,700, an annual conference travel allowance of HKD14,400, and one year of free tuition and on-campus housing.
 
 \* I may not be able to respond to each applicant due to the high volume of applications received.

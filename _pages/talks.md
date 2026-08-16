@@ -2,7 +2,8 @@
 layout: page
 title: talks
 permalink: /talks/
-nav: false
+nav: true
+nav_order: 5
 ---
 
 ### Invited

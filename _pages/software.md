@@ -3,7 +3,7 @@ layout: page
 title: software
 permalink: /software/
 nav: true
-nav_order: 4
+nav_order: 7
 ---
 
 - [**KAMA**](https://github.com/JianYin-Gloria/KAMA): A knockoff-augmented meta-analysis framework for genome-wide association studies.

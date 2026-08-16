@@ -9,11 +9,10 @@ profile:
   image: YiYang_gh.jpg
   image_circular: true
   more_info: >
-    <p>Department of Biostatistics</p>
-    <p>City University of Hong Kong</p>
-    <p>Kowloon Tong, Hong Kong</p>
+    <p>Email:</p>
+    <p><a href="mailto:yi.yang@cityu.edu.hk">yi.yang@cityu.edu.hk</a></p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
@@ -23,24 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-I am an Assistant Professor in the [Department of Biostatistics](https://www.cityu.edu.hk/bios/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My research focuses on variable selection methods for high-dimensional data using machine learning, knockoff statistics, and Bayesian hierarchical models, with applications to genetic and electronic health records data.
+I am an Assistant Professor in the [Department of Biostatistics](https://www.cityu.edu.hk/bios/) at [City University of Hong Kong](https://www.cityu.edu.hk/). My research lies at the intersection of statistical genetics, machine learning, and Bayesian statistics. I develop knockoff-based variable selection, deep learning models, and Bayesian models to identify genetic risk variants and improve risk prediction using large-scale genomic and electronic health record data. I received my PhD from the University of Minnesota and BEng from Chu Kochen Honors College, Zhejiang University. Prior to joining CityU, I served as a postdoctoral research scientist at Columbia University under the supervision of Prof. Iuliana Ionita-Laza.
 
-### [Openings for PhD students in Fall 2027]({{ '/openings/' | relative_url }})
-
-### News
-
-- **Oct 2025**: Published paper [**Knockoff-ML: A knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data**](https://doi.org/10.1038/s41746-025-02102-2) in _npj Digital Medicine_
-
-- **May 2024**: Published paper [**KnockoffHybrid: A knockoff framework for hybrid analysis of trio and population designs in genome-wide association studies**](https://doi.org/10.1016/j.ajhg.2024.05.003) in _American Journal of Human Genetics_
-
-- **Jul 2023**: Awarded the **Early Career Scheme (ECS, 杰出青年学者计划)** grant as PI by the Research Grants Council of Hong Kong
-
-- **Oct 2022**: Published paper [**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](https://doi.org/10.1016/j.ajhg.2022.08.013) in _American Journal of Human Genetics_
-
-- **Jun 2022**: Invited talk **KnockoffTrio: Variable selection in genetic association studies with trio design** at Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine
-
-- **Nov 2021**: Published paper [**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437) in _Genetic Epidemiology_
-
-- **Feb 2021**: Published paper [**A Bayesian hierarchically structured prior for rare‐variant association testing**](https://doi.org/10.1002/gepi.22379) in _Genetic Epidemiology_
-
-- **Mar 2020**: Published paper [**A Bayesian hierarchical variable selection prior for pathway‐based GWAS using summary statistics**](https://doi.org/10.1002/sim.8442) in _Statistics in Medicine_
+<strong style="font-weight: 700;">PhD admission</strong>: I am looking for highly motivated PhD students with a background in statistics, computer science, bioinformatics, data science, or related fields. Please send your CV and transcript(s) to <a href="mailto:yi.yang@cityu.edu.hk">yi.yang@cityu.edu.hk</a> if you are interested. Please see [here]({{ '/openings/' | relative_url }}) for more details.

@@ -2,20 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-nav: true
-nav_order: 3
-dropdown: true
-children:
-  - title: overview
-    permalink: /research/
-  - title: publications
-    permalink: /publications/
-  - title: grants
-    permalink: /grants/
-  - title: talks
-    permalink: /talks/
-  - title: students
-    permalink: /students/
+nav: false
 ---
 
 My research has focused on variable selection methods for high-dimensional data using knockoff statistics and Bayesian hierarchical models. Variable selection, also known as feature selection, is at the heart of many scientific problems, such as discovering pathogenic variants in human genome.

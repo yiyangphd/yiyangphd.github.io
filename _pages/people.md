@@ -1,8 +1,9 @@
 ---
 layout: page
-title: students
-permalink: /students/
-nav: false
+title: people
+permalink: /people/
+nav: true
+nav_order: 6
 ---
 
 ## Current PhD students
