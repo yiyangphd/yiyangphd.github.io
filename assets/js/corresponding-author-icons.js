@@ -1,0 +1,1 @@
+const moveCorrespondingAuthorIcons=()=>{document.querySelectorAll(".publications .author").forEach(e=>{const o=e.querySelector("em"),n=e.querySelector(":scope > .fa-circle-info[data-content]");o&&n&&o.insertAdjacentElement("afterend",n)})};"loading"===document.readyState?document.addEventListener("DOMContentLoaded",moveCorrespondingAuthorIcons):moveCorrespondingAuthorIcons();
