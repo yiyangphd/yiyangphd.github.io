@@ -8,17 +8,20 @@ nav_order: 5
 
 ### Invited
 
-1.  National Taiwan University College of Public Health, Taipei. March 2025.
-2.  Tuen Mun Hospital Clinical Research Governance Committee, Hong Kong. August 2024.
-3.  International Conference on Frontiers of Data Science, Hangzhou. July 2024.
-4.  International Chinese Statistical Association (ICSA) China Conference, Wuhan. June 2024.
-5.  International Conference on Bioinformatics and Computational Biology, Tokyo. March 2024.
-6.  International Chinese Statistical Association (ICSA) International Conference, Hong Kong. July 2023.
-7.  International Chinese Statistical Association (ICSA) China Conference, Chengdu. June 2023.
-8.  Shanghai Jiao Tong University (SJTU) School of Medicine, Shanghai. May 2023.
-9.  Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine, New York. June 2022.
-10. City University of Hong Kong School of Data Science, Hong Kong. March 2022.
-11. Beijing Normal University Young Scholars Forum, Beijing. December 2021.
+1.  International Chinese Statistical Association (ICSA) China Conference, Shenzhen. June 2026.
+2.	Workshop on Statistics and Data Science, Hong Kong University of Science and Technology, Hong Kong. August 2025.
+3.	Clinical Research Institute, Shanghai Jiao Tong University School of Medicine, Shanghai. June 2025.
+4.  National Taiwan University College of Public Health, Taipei. March 2025.
+5.  Tuen Mun Hospital Clinical Research Governance Committee, Hong Kong. August 2024.
+6.  International Conference on Frontiers of Data Science, Hangzhou. July 2024.
+7.  International Chinese Statistical Association (ICSA) China Conference, Wuhan. June 2024.
+8.  International Conference on Bioinformatics and Computational Biology, Tokyo. March 2024.
+9.  International Chinese Statistical Association (ICSA) International Conference, Hong Kong. July 2023.
+10.  International Chinese Statistical Association (ICSA) China Conference, Chengdu. June 2023.
+11.  Shanghai Jiao Tong University (SJTU) School of Medicine, Shanghai. May 2023.
+12.  Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine, New York. June 2022.
+13. City University of Hong Kong School of Data Science, Hong Kong. March 2022.
+14. Beijing Normal University Young Scholars Forum, Beijing. December 2021.
 
 ### Contributed
 

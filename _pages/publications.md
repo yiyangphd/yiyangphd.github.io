@@ -12,3 +12,5 @@ nav_order: 3
 
 {% bibliography %}
 </div>
+
+<script defer src="{{ '/assets/js/corresponding-author-icons.js' | relative_url }}"></script>

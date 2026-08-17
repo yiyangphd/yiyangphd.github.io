@@ -8,16 +8,14 @@ nav_order: 9
 
 <!--- I am looking for highly motivated PhD students to join my group in the Department of Biostatistics at City University of Hong Kong. The PhD students will have opportunities to (1) develop statistical methods to identify genetic risk variants for human diseases and (2) implement proposed methods in R or Python. The PhD students will receive rigorous training in statistical theory, statistical computing, and academic writing, which will prepare them for careers in both academia and industry. --->
 
-I am looking for highly motivated PhD students to join my group in the Department of Biostatistics at City University of Hong Kong.
+I am looking for highly motivated PhD students with a background in statistics, computer science, bioinformatics, data science, or related fields to join my group in the Department of Biostatistics at City University of Hong Kong.
 
 ### Qualification
 
-- Strong programming skills in R or Python are **required**
-- Publications or working manuscripts in statistics, computer science, or related fields
-- A bachelor's degree and a master's degree in statistics, computer science, bioinformatics, data science, or related fields
+- A bachelor's degree in statistics, computer science, bioinformatics, data science, or related fields; A master's degree in related fields is preferred but not required
+- Publications or working manuscripts in statistics, computer science, or related fields are preferred but not required
+- Strong independent coding in R and Python
 
 ### Application
 
-Please send your resume/CV and transcript(s) to [yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk).* I will also work closely with qualified candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which will provide a monthly stipend of HKD28,700, an annual conference travel allowance of HKD14,400, and one year of free tuition and on-campus housing.
-
-\* I may not be able to respond to each applicant due to the high volume of applications received.
+Please send your resume/CV and transcript to [yi.yang@cityu.edu.hk](mailto:yi.yang@cityu.edu.hk). I will also work closely with qualified candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which will provide a monthly stipend of HKD28,700, an annual conference travel allowance of HKD14,400, and one year of free tuition and on-campus housing. I may not be able to respond to each applicant due to the high volume of applications received.

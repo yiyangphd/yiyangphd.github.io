@@ -16,4 +16,4 @@ City University of Hong Kong\
 
 ### Email
 
-[yi.yang at cityu.edu.hk](mailto:yi.yang@cityu.edu.hk)
+[yi.yang@cityu.edu.hk](mailto:yi.yang@cityu.edu.hk)
