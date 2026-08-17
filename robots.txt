@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yiyangphd.github.io/yiyangphd_al.github.io/sitemap.xml
+Sitemap: https://yiyangphd.github.io/sitemap.xml
