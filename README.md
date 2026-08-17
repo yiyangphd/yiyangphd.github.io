@@ -10,7 +10,7 @@ npm ci
 bundle exec jekyll serve
 ```
 
-Open `http://localhost:4000/yiyangphd_al.github.io/`.
+Open `http://localhost:4000/yiyangphd.github.io/`.
 
 ## Deployment
 
