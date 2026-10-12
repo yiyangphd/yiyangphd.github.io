@@ -17,11 +17,10 @@ nav_order: 5
 7.  International Chinese Statistical Association (ICSA) China Conference, Wuhan. June 2024.
 8.  International Conference on Bioinformatics and Computational Biology, Tokyo. March 2024.
 9.  International Chinese Statistical Association (ICSA) International Conference, Hong Kong. July 2023.
-10.  International Chinese Statistical Association (ICSA) China Conference, Chengdu. June 2023.
-11.  Shanghai Jiao Tong University (SJTU) School of Medicine, Shanghai. May 2023.
-12.  Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine, New York. June 2022.
-13. City University of Hong Kong School of Data Science, Hong Kong. March 2022.
-14. Beijing Normal University Young Scholars Forum, Beijing. December 2021.
+10. International Chinese Statistical Association (ICSA) China Conference, Chengdu. June 2023.
+11. Shanghai Jiao Tong University (SJTU) School of Medicine, Shanghai. May 2023.
+12. Columbia University Center for Precision Medicine and Genomics and Institute for Genomic Medicine, New York. June 2022.
+13. Beijing Normal University Young Scholars Forum, Beijing. December 2021.
 
 ### Contributed
 
