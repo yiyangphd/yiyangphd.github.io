@@ -14,9 +14,11 @@ nav_order: 7
 
 - [KAMA](https://github.com/JianYin-Gloria/KAMA){: .software-name }: A knockoff-augmented meta-analysis framework for genome-wide association studies.
 
-- [KNOT](https://github.com/EddieFua/KNOT){: .software-name }: A knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.
+- [PEAR](https://github.com/EddieFua/PEAR){: .software-name }: An interpretable deep learning framework for PRS- and EHR-augmented disease risk prediction.
 
 - [KnockoffGroup](https://github.com/Ennazhou/KnockoffGroup){: .software-name }: A group knockoff framework for gene-based genome-wide association studies.
+
+- [KNOT](https://github.com/EddieFua/KNOT){: .software-name }: A knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies. It implements the method in [**KNOT: A knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies**](https://doi.org/10.1186/s13059-026-04285-7).
 
 - [Knockoff-ML](https://github.com/keiwong493/Knockoff-ML){: .software-name }: a machine learning framework for variable selection with false discovery rate control. It implements the method in [**Knockoff-ML: a knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data**](https://doi.org/10.1038/s41746-025-02102-2).
 

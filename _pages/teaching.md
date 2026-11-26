@@ -10,7 +10,7 @@ nav_order: 8
 
 ##### Instructor
 
-- BIOS5802: Advanced Methods in Biostatistics (Spring 2023 - 2026)
+- BIOS5802: Advanced Methods in Biostatistics (Spring 2023 - 2027)
 - SDSC3105: Bayesian Analysis (Fall 2023 - 2024)
 - BIOS8001: Seminars on Biostatistics (Fall/Spring 2023 - 2026)
 - BIOS6903: Communication and Project Study (Summer 2023, 2026)

@@ -8,6 +8,7 @@ nav_order: 5
 
 ### Invited
 
+1.  World Laureates Forum - Young Scientists Forum, Shanghai. October 2026.
 1.  International Chinese Statistical Association (ICSA) China Conference, Shenzhen. June 2026.
 2.	Workshop on Statistics and Data Science, Hong Kong University of Science and Technology, Hong Kong. August 2025.
 3.	Clinical Research Institute, Shanghai Jiao Tong University School of Medicine, Shanghai. June 2025.
